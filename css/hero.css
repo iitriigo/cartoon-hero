@@ -24,7 +24,6 @@ header img{
 	max-width: 600px;
 	margin: 0 auto; /*0 para cima e baixo, automatico para esquerda e direita*/
 	padding: 0 20px;
-	background-color: antiquewhite;
 }
 
 img.big_image{
