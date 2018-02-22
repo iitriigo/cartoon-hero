@@ -1,0 +1,64 @@
+html, body{
+	font-size: sans-serif;
+	margin: 0;
+}
+
+header{
+	background-color: #660000;
+	padding: 40px; /* assim são todos os lados do mesmo tamanho. */
+	text-align: center;
+}
+
+h1{
+	font-size: 90px;
+	color: white;
+}
+
+header img{
+	border-radius: 150px;
+	width: 300px;
+	border: 4px solid black;
+}
+
+.content{
+	max-width: 600px;
+	margin: 0 auto; /*0 para cima e baixo, automatico para esquerda e direita*/
+	padding: 0 20px;
+	background-color: antiquewhite;
+}
+
+img.big_image{
+	width: 100%;
+}
+
+p.caption{
+	font-size: 16px;
+	color: grey;
+	font-size: italic;
+}
+
+ul.kids{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+a{
+	color:#660000;
+	text-decoration: none;
+}
+
+footer{
+	margin-top: 20px;
+	padding: 40px 20px;
+	background-color: #f2f2f2;
+}
+
+footer ul{
+	text-align: center;
+}
+
+footer ul li{
+	display: inline-block;
+	margin: 0 5px;
+}
